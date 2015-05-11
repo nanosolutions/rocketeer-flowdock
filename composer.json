@@ -1,5 +1,5 @@
 {
-  "name": "nano/rocketeer-hipchat",
+  "name": "nano/rocketeer-flowdock",
   "description": "Flowdock plugin for Rocketeer",
   "license": "MIT",
   "keywords": [
