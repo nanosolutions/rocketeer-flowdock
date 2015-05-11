@@ -1,4 +1,4 @@
-# Flowodkc for Rocketeer
+# Flowdock for Rocketeer
 
 Sends a basic deployment message to an Flowdock.
 

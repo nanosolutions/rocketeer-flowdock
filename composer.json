@@ -1,0 +1,30 @@
+{
+  "name": "nano/rocketeer-hipchat",
+  "description": "Flowdock plugin for Rocketeer",
+  "license": "MIT",
+  "keywords": [
+    "rocketeer",
+    "deployment",
+    "flowdock",
+    "laravel"
+  ],
+  "authors": [
+    {
+      "name": "Petr Cervenka",
+      "email": "petr@nanosolutions.io"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "anahkiasen/rocketeer": "~2.1",
+    "mremi/flowdock": "dev-master"
+  },
+  "require-dev": {
+    "illuminate/support": "~4.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Rocketeer\\Plugins\\Flowdock\\": "src/Flowdock"
+    }
+  }
+}
